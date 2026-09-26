@@ -30,6 +30,8 @@ This project explores the relationship between a nation's economic wealth (Gross
 Dataset file: `all_data.csv` (96 observations, 4 columns).
 
 ---
+# Publication medium lien
+https://medium.com/@giversymb/richesse-long%C3%A9vit%C3%A9-analyse-%C3%A9conom%C3%A9trique-et-visualisation-de-limpact-du-pib-sur-l-esp%C3%A9rance-de-f17fcc659332
 
 ## Project Structure
 
